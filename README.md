@@ -1,4 +1,5 @@
 # Menstrual Cycle Tracker
+<img align="center" alt="Coding" width="500" src="https://www.healthshots.com/wp-content/uploads/2020/10/period-tracking.jpg">
 
 ## Introduction
 Welcome to the Menstrual Cycle Tracker project! This is a GitHub repository dedicated to building a menstrual cycle tracking application. The purpose of this project is to provide a simple and user-friendly tool for individuals to track their menstrual cycles, record symptoms, and gain insights into their reproductive health.
